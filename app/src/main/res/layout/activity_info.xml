@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Info">
+
+    <FrameLayout
+        android:id="@+id/frameHeader"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/bg_rounded_all"
+            android:gravity="bottom"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:text="JUMANGIN"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+
+                android:text="Aplikasi Ibu Hamil"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="30dp"
+                android:text="Puskesmas Pracimantoro I"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:layout_width="184dp"
+            android:layout_height="208dp"
+            android:layout_gravity="end"
+            android:elevation="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/logoibu"
+            app:riv_corner_radius_bottom_left="40dp"
+            app:riv_corner_radius_bottom_right="40dp"
+            app:riv_corner_radius_top_left="40dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF">
+
+            </Button>
+
+
+        </LinearLayout>
+
+
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:justificationMode="inter_word"
+        android:layout_below="@+id/frameHeader"
+        android:padding="20dp"
+        android:text="Aplikasi JUMANGIN 2.0 merupakan aplikasi lanjutan dari JUMANGIN yang pertama. Aplikasi ini berguna untuk pemantauan Ibu hamil selama masa kehamilan yang berujuan untuk menurunkan angka stunting pada anak yang di akibatkan oleh ibu hamil yang mengalami kekurangan energi kronis dan anemia pada saat masa kehamilan."
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="328dp"
+        tools:ignore="MissingConstraints" />
+</RelativeLayout>

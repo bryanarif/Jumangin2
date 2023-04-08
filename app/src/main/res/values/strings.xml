@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Jumangin 2</string>
+    <string name="title_activity_daftar_penyakit">DaftarPenyakit</string>
+    <string name="title_home">KEK</string>
+    <string name="title_dashboard">Anemia</string>
+    <string name="title_notifications">Stunting</string>
+    <string name="kek"><![CDATA[Kekurangan Energi Kronik (KEK) pada Ibu Hamil Definisi: Kekurangan Energi Kronik (KEK) pada ibu hamil yaitu suatu keadaan ibu hamil yang menderita kekurangan makanan yang berlangsung lama (kronik) dengan berbagai timbulnya gangguan kesehatan pada ibu hamil. Pengertian KEK pada ibu hamil menurut WHO adalah kondisi seseorang yang memiliki nilai indeks masa tubuh (IMT) kurang dari 18,5 atau ukuran lingkar lengan atas (LILA) < 23,5cm. Indeks massa tubuh (IMT) adalah hasil pengukuran dari nilai berat badan (Kg) di bagi dengan nilai tinggi badan (meter) di pangkatkan 2. IMT = BB (kg) / TB (m)2. WHO menentukan standar nilai BMI 18,5, 17,0, dan 16,0 sebagai kekurangan energi kronis ringan, sedang, dan berat Ibu hamil yang menderita kekurangan energi kronis (KEK) tentu akan mempengaruhi kesehatan janin yang dikandungnya, karena akan menyebabkan bayi lahir dengan berat yang rendah (BBLR). Bila tidak bisa tumbuh kejar, bayi BBLR kemungkinan besar akan menderita stunting. Penyebab KEK: 1. Peningkatan kebutuhan nutrisi saat hamil untuk kebutuhan ibu dan perkembangan janin 2. Asupan Makanan yang kurang dan tidak sesuai dengan kebutuhan 3. Usia ibu hamil terlalu muda atau tua 4. Beban kerja ibu terlalu berat 5. Penyakit infeksi pada ibu hamil Gejala: 1. Merasa kelelahan terus-menerus 2. Merasa kesemutan 3. Wajah pucat dan tidak bugar 4. Sangat kurus dengan nilai indeks masa tubuh (IMT): kurang dari 18,5 5. Ukuran lingkar lengan atas (LILA): kurang dari 23,5 cm 6. Mengalami penurunan berat badan dan kekurangan lemak 7. Menurunnya kemampuan aktivitas fisik 8. Menurunnya kalori yang terbakar saat istirahat Dampak KEK pada janin: 1. Keguguran atau kematian bayi saat lahir 2. Bayi lahir prematur 3. Gangguan pertumbuhan janin 4. Terhambatnya perkembangan otak janin 5. Berat bayi lahir rendah 6. Anemia pada bayi Pencegahan KEK: 1. Pemberian makanan tambahan pada ibu hamil 2. Memastikan ketersediaan makanan bergizi di rumah 3. Menerapkan pola makan yang benar dan asupan gizi yang penting saat hamil 4. Mengobati penyakit infeksi yang mengganggu pencernaan ibu hamil 5. Menjaga kebersihan dan kesegaran makanan yang di konsumsi Gizi dan Nutrisi pada ibu hamil: 1. Telur, ikan, ayam, dan daging yang sudah dimasak hingga matang 2. Sayuran dan buah-buahan segar, 3. Nasi dan umbi-umbian, 4. Kacang-kacangan, serta 5. Susu ibu hamil android:layout_height=]]></string>
+    <string name="bulan">Formulir Pemantauan Lanjutan Bumil                (Diisi Setiap Bulan)</string>
+    <string name="sekali">Formulir Pengisian Awal Pendataan Bumil        (Diisi 1X)</string>
+    <string name="definisikek"><![CDATA[Kekurangan Energi Kronik (KEK) pada ibu hamil yaitu suatu keadaan ibu hamil yang menderita kekurangan makanan yang berlangsung lama (kronik) dengan berbagai timbulnya gangguan kesehatan pada ibu hamil. Pengertian KEK pada ibu hamil menurut WHO adalah kondisi seseorang yang memiliki nilai indeks masa tubuh (IMT) kurang dari 18,5 atau ukuran lingkar lengan atas (LILA) < 23,5cm. Indeks massa tubuh (IMT) adalah hasil pengukuran dari nilai berat badan (Kg) di bagi dengan nilai tinggi badan (meter) di pangkatkan 2. IMT = BB (kg) / TB (m)2. WHO menentukan standar nilai BMI 18,5, 17,0, dan 16,0 sebagai kekurangan energi kronis ringan, sedang, dan berat Ibu hamil yang menderita kekurangan energi kronis (KEK) tentu akan mempengaruhi kesehatan janin yang dikandungnya, karena akan menyebabkan bayi lahir dengan berat yang rendah (BBLR). Bila tidak bisa tumbuh kejar, bayi BBLR kemungkinan besar akan menderita stunting.]]></string>
+    <string name="penyebabkek">
+        1. Peningkatan kebutuhan nutrisi saat hamil
+        untuk kebutuhan ibu dan perkembangan janin
+        2. Asupan Makanan yang kurang dan tidak
+        sesuai dengan kebutuhan
+        3. Usia ibu hamil terlalu muda atau tua
+        4. Beban kerja ibu terlalu berat
+        5. Penyakit infeksi pada ibu hamil</string>
+    <string name="gejalakek">
+        1. Merasa kelelahan terus-menerus
+        2. Merasa kesemutan
+        3. Wajah pucat dan tidak bugar
+        4. Sangat kurus dengan nilai indeks masa tubuh (IMT): kurang dari 18,5
+        5. Ukuran lingkar lengan atas (LILA): kurang dari 23,5 cm
+        6. Mengalami penurunan berat badan dan kekurangan lemak
+        7. Menurunnya kemampuan aktivitas fisik
+        8. Menurunnya kalori yang terbakar saat istirahat</string>
+    <string name="htmlFormattedText"><p>
+<h2>  Persiapan Kehamilan dan Persalinan  </h2>
+  <b>1. Pemeriksaan kesehatan </b>
+    a. Pemeriksaan Penyakit dan Virus ( HIV, Sifilis, Hepatitis B)
+    b. Pemeriksaan Darah ( Golongan darah, Rh )
+    c. Pemeriksaan Faktor Genetika ( Pernikahan sesama saudara kandung )</p>
+
+<p><b>2. Menjaga kebugaran dan kesehatan tubuh </b>
+    a. Olahraga teratur (Cukup 3 kali dalam seminggu selama 30 menit, dan lakukan secara rutin).
+    b. Berusaha untuk menurunkan berat badan bila kegemukan dan menambah berat badan bila terlalu kurus untuk mencapai berat badan ideal.</p>
+
+<p><b>3. Menghentikan kebiasaan buruk</b>
+    Menghentikan kebiasaan buruk misalnya perokok berat, pecandu narkotika dan obat terlarang lainnya, kecanduan alkohol, dan perilaku seks bebas.</p>
+    </string>
+</resources>
